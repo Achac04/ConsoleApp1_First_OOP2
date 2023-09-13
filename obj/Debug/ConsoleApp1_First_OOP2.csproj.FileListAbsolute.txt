@@ -1,0 +1,7 @@
+C:\Users\chaco\source\repos\ConsoleApp1_First_OOP2\ConsoleApp1_First_OOP2\bin\Debug\ConsoleApp1_First_OOP2.exe.config
+C:\Users\chaco\source\repos\ConsoleApp1_First_OOP2\ConsoleApp1_First_OOP2\bin\Debug\ConsoleApp1_First_OOP2.exe
+C:\Users\chaco\source\repos\ConsoleApp1_First_OOP2\ConsoleApp1_First_OOP2\bin\Debug\ConsoleApp1_First_OOP2.pdb
+C:\Users\chaco\source\repos\ConsoleApp1_First_OOP2\ConsoleApp1_First_OOP2\obj\Debug\ConsoleApp1_First_OOP2.csproj.AssemblyReference.cache
+C:\Users\chaco\source\repos\ConsoleApp1_First_OOP2\ConsoleApp1_First_OOP2\obj\Debug\ConsoleApp1_First_OOP2.csproj.CoreCompileInputs.cache
+C:\Users\chaco\source\repos\ConsoleApp1_First_OOP2\ConsoleApp1_First_OOP2\obj\Debug\ConsoleApp1_First_OOP2.exe
+C:\Users\chaco\source\repos\ConsoleApp1_First_OOP2\ConsoleApp1_First_OOP2\obj\Debug\ConsoleApp1_First_OOP2.pdb
